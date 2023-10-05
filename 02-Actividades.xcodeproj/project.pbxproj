@@ -15,6 +15,8 @@
 		C5B1C8592ACE9BE300FE6882 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5B1C8572ACE9BE300FE6882 /* LaunchScreen.storyboard */; };
 		C5B1C8642ACE9BE300FE6882 /* _2_ActividadesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5B1C8632ACE9BE300FE6882 /* _2_ActividadesTests.swift */; };
 		C5B1C86F2ACE9BE300FE6882 /* _2_ActividadesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5B1C86E2ACE9BE300FE6882 /* _2_ActividadesUITests.swift */; };
+		C5B1C8802ACEA05800FE6882 /* Ventana2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5B1C87F2ACEA05800FE6882 /* Ventana2ViewController.swift */; };
+		C5B1C8852ACEA39C00FE6882 /* montacer.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = C5B1C8842ACEA39C00FE6882 /* montacer.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		C5B1C86A2ACE9BE300FE6882 /* 02-ActividadesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "02-ActividadesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5B1C86E2ACE9BE300FE6882 /* _2_ActividadesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _2_ActividadesUITests.swift; sourceTree = "<group>"; };
 		C5B1C8702ACE9BE300FE6882 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C5B1C87F2ACEA05800FE6882 /* Ventana2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ventana2ViewController.swift; sourceTree = "<group>"; };
+		C5B1C8842ACEA39C00FE6882 /* montacer.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = montacer.jpeg; path = ../../../Downloads/montacer.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,8 +108,10 @@
 				C5B1C8502ACE9BE100FE6882 /* ViewController.swift */,
 				C5B1C8522ACE9BE100FE6882 /* Main.storyboard */,
 				C5B1C8552ACE9BE300FE6882 /* Assets.xcassets */,
+				C5B1C8842ACEA39C00FE6882 /* montacer.jpeg */,
 				C5B1C8572ACE9BE300FE6882 /* LaunchScreen.storyboard */,
 				C5B1C85A2ACE9BE300FE6882 /* Info.plist */,
+				C5B1C87F2ACEA05800FE6882 /* Ventana2ViewController.swift */,
 			);
 			path = "02-Actividades";
 			sourceTree = "<group>";
@@ -233,6 +239,7 @@
 			files = (
 				C5B1C8592ACE9BE300FE6882 /* LaunchScreen.storyboard in Resources */,
 				C5B1C8562ACE9BE300FE6882 /* Assets.xcassets in Resources */,
+				C5B1C8852ACEA39C00FE6882 /* montacer.jpeg in Resources */,
 				C5B1C8542ACE9BE100FE6882 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -259,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C5B1C8512ACE9BE100FE6882 /* ViewController.swift in Sources */,
+				C5B1C8802ACEA05800FE6882 /* Ventana2ViewController.swift in Sources */,
 				C5B1C84D2ACE9BE100FE6882 /* AppDelegate.swift in Sources */,
 				C5B1C84F2ACE9BE100FE6882 /* SceneDelegate.swift in Sources */,
 			);
